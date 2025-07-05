@@ -6,7 +6,6 @@
 23 Enable /who command (Recommended)
 24 Fix Camera Angles (Recommended)
 34 Enable /showname (Recommended)
-35 Read Data Folder First
 36 Always read msgstringtable.txt (Recommended)
 38 Remove Gravity Ads (Recommended)
 39 Remove Gravity Logo (Recommended)
@@ -23,6 +22,7 @@
 90 Enable DNS Support (Recommended)
 95 Use SSO Login Packet
 97 Cancel to Login Window (Recommended)
+100 Disable Multiple Windows
 213 Disable Help Message on Login (Recommended)
 230 Always load Korea ExternalSettings lua file (Recommended)
 290 Hide build info in client (Recommended)
